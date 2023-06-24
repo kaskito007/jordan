@@ -6,7 +6,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/flask-hotel-api.git
+git clone https://github.com/kaskito007/jordan.git
 Create a virtual environment (optional, but recommended):
 
 bash
